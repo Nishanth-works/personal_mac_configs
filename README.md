@@ -1,2 +1,1 @@
-# my_config
-# testing
+# Dumping basic config settings for my day to day applications
